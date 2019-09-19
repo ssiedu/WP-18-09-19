@@ -1,4 +1,4 @@
-package com.ssi;
+package com.ssi.models;
 
 public class InterestModel {
 	
